@@ -1,0 +1,16 @@
+{
+	"name": "slack-a-fip",
+	"version": "1.0.0",
+	"description": "FIP Radio track notifier",
+	"keywords": ["fip", "radio", "track"],
+
+	"author": "npny (https://github.com/npny/)",
+	"license": "MIT",
+	"repository": "npny/slack-a-fip",
+
+	"main": "./slack-a-fip.js",
+	"dependencies": {
+		"node-slack": "0.0.7",
+		"request": "*"
+	}
+}
